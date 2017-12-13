@@ -1,5 +1,5 @@
-# hello-world
+Virtual Intelligent Cerebral Artifial Homie - (VICAH)
 
-homie' suitcase
+INTERFACE 
 
-I like to tech out sometimes and I also own a record label. Music and technology is my life, that and business.
+V.I.C.A.H.
